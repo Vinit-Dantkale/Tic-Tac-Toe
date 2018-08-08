@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#ffffff"/>
+    <corners android:radius="3dp" />
+    <stroke android:width="15px" android:color="#1E88E5" />
+</shape>
+<!--
+ <rotate xmlns:android="http://schemas.android.com/apk/res/android"
+     android:fromDegrees="-90"
+     android:toDegrees="90"
+     android:pivotX="50%"
+     android:pivotY="50%" >
+    <shape
+        android:shape="line">
+    <stroke android:width="7dp"
+        android:color="#1e88e5"
+        >
+    </stroke>
+    </shape>
+ </rotate>
+-->
